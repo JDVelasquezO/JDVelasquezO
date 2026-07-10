@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Velásquez</h1>
 <h3 align="center">A passionate developer from Guatemala</h3>
 
-- 📚 I’m currently studying at **ECYS - USAC - Guatemala**
+- 📚 I’m currently a computer science engineer from **ECYS - USAC - Guatemala**
 
 - 👨‍💻 All of my projects are available at **Github and Gitlab**
 
